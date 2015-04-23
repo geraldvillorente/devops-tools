@@ -22,3 +22,5 @@ AVERAGE:                61.6%   53.1%   1.6ms   9144    0.2     0.0     2
 TOTAL:          4.9GB/  8.0GB           6.4ms   35.7K   0.7     0.0     9
 (ctrl-c to quit.)
 ```
+
+CREDIT: This wonderful script is created by [nicholastang](https://nicholasytang.wordpress.com/)

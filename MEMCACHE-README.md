@@ -98,4 +98,4 @@ Lifetime stats are pretty boring - unless the instances are relatively new, or d
 
 DISCLAIMER: This is not the best code in the world. I make no warranties, promises, or guarantees that it will do anything, correct or incorrect. It may very well kill you and your close relatives. You've been warned.
 
-CREDITS: This wonderful script is created by [nicholastang](https://nicholasytang.wordpress.com/)
+CREDIT: This wonderful script is created by [nicholastang](https://nicholasytang.wordpress.com/)
